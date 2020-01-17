@@ -1,7 +1,0 @@
-Requisições HTTP
-
-
-
-Frontend -> Backend -> resposta ao Frontend
-
-Backend -> Frontend - sem Requisições só é possível com websocket
